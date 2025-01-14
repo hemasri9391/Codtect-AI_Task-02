@@ -1,1 +1,1 @@
-# Codtect-AI_Task-02
+# CodTech-AI_Task-02
